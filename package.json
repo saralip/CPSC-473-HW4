@@ -1,0 +1,14 @@
+{
+	"name": "CPSC473 HW 4",		
+	"description": "Making a Trivia web app using MongoDB and Redis"
+
+	"version": "0.0.1",
+
+	"dependencies": 
+	{
+		"redis": "0.8.x"
+
+
+	}
+
+}
